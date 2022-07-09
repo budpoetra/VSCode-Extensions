@@ -1,0 +1,13 @@
+================== EKSTENSI VS CODE ==================
+1. Mayukai Theme
+2. Open In Browser
+3. Auto Rename Tag
+4. Intellisense for CSS Classname
+5. CSS Peek
+6. Indent Rainbow
+7. Rainbow Brackets
+8. Beautify
+	Settings > Formatting > Format On Save (Check)
+9. PHP Intellisense
+10. For Setting Cursor
+	Settings > Cursor
