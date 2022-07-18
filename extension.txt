@@ -11,3 +11,4 @@
 9. PHP Intellisense
 10. For Setting Cursor
 	Settings > Cursor
+11. XDebug.org (To Debug View in Browser)
