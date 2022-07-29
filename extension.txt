@@ -9,6 +9,9 @@
 8. Beautify
 	Settings > Formatting > Format On Save (Check)
 9. PHP Intellisense
-10. For Setting Cursor
+10. PHP Intelephense
+11. HTML Snippets
+12. HTML CSS Support
+13. For Setting Cursor
 	Settings > Cursor
-11. XDebug.org (To Debug View in Browser)
+14. XDebug.org (To Debug View in Browser)
