@@ -15,3 +15,10 @@
 13. For Setting Cursor
 	Settings > Cursor
 14. XDebug.org (To Debug View in Browser)
+
+>>>>>>>>>>>>>>>> For Laravel <<<<<<<<<<<<<<<
+1. Laravel Artisan
+2. Laravel Snippet
+3. Laravel Blade Snippet
+4. Laravel Blade Spacer
+5. Laravel Go To View
