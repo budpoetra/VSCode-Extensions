@@ -22,3 +22,4 @@
 3. Laravel Blade Snippet
 4. Laravel Blade Spacer
 5. Laravel Go To View
+6. PHP Namespace Resolver
