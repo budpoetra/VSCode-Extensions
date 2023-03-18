@@ -6,12 +6,11 @@
 5. CSS Peek
 6. Indent Rainbow
 7. Rainbow Brackets
-8. Beautify
-	Settings > Formatting > Format On Save (Check)
+8. Prettier
 9. PHP Intellisense
 10. PHP Intelephense
-11. HTML Snippets
-12. HTML CSS Support
+11. HTML CSS Support
+12. ESLint
 13. For Setting Cursor
 	Settings > Cursor
 14. XDebug.org (To Debug View in Browser)
