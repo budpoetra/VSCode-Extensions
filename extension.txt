@@ -1,5 +1,5 @@
 ================== EKSTENSI VS CODE ==================
-1. Mayukai Theme
+1. Mayukai Theme / Andromeda
 2. Open In Browser
 3. Auto Rename Tag
 4. Intellisense for CSS Classname
